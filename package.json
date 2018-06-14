@@ -1,0 +1,39 @@
+{
+  "name": "react-toggleable",
+  "version": "0.0.1",
+  "description": "Makes children toggleable between them.",
+  "main": "index.js",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcoMedrano/react-toggleable.git"
+  },
+  "keywords": [
+    "react",
+    "toggle"
+  ],
+  "author": "Marco Medrano",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcoMedrano/react-toggleable/issues"
+  },
+  "homepage": "https://github.com/MarcoMedrano/react-toggleable#readme",
+  "dependencies": {
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1",
+    "react-scripts-ts": "2.16.0"
+  },
+  "scripts": {
+    "start": "react-scripts-ts start",
+    "build": "react-scripts-ts build",
+    "test": "react-scripts-ts test --env=jsdom",
+    "eject": "react-scripts-ts eject"
+  },
+  "devDependencies": {
+    "@types/jest": "^23.1.0",
+    "@types/node": "^10.3.3",
+    "@types/react": "^16.3.17",
+    "@types/react-dom": "^16.0.6",
+    "typescript": "^2.9.2"
+  }
+}
