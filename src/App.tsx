@@ -1,8 +1,8 @@
 import * as React from 'react';
 import './App.css';
 
+import Toggleable from './lib/Toggleable';
 import logo from './logo.svg';
-import Toggleable from './Toggleable';
 
 class App extends React.Component<any,any> {
 
